@@ -1,0 +1,9 @@
+city,latitude,longitude,observation_time,pm2_5_ug_m3,pm10_ug_m3,us_aqi,source,fetched_at_utc
+Bhopal,23.26,77.41,2026-10-10T11:30,14.5,19.6,73,Open-Meteo Air Quality API,2026-10-10T06:56:52+00:00
+Bhopal,23.26,77.41,2026-10-10T14:30,17.8,24.9,69,Open-Meteo Air Quality API,2026-10-10T09:06:38+00:00
+Delhi,28.61,77.21,2026-10-10T11:30,67.3,244.0,158,Open-Meteo Air Quality API,2026-10-10T06:56:52+00:00
+Delhi,28.61,77.21,2026-10-10T14:30,72.4,304.5,159,Open-Meteo Air Quality API,2026-10-10T09:06:38+00:00
+Mumbai,19.08,72.88,2026-10-10T11:30,36.6,40.2,152,Open-Meteo Air Quality API,2026-10-10T06:56:52+00:00
+Mumbai,19.08,72.88,2026-10-10T14:30,42.8,47.3,169,Open-Meteo Air Quality API,2026-10-10T09:06:38+00:00
+Satna,24.58,80.83,2026-10-10T11:30,33.2,51.0,125,Open-Meteo Air Quality API,2026-10-10T06:56:52+00:00
+Satna,24.58,80.83,2026-10-10T14:30,21.1,30.2,126,Open-Meteo Air Quality API,2026-10-10T09:06:38+00:00

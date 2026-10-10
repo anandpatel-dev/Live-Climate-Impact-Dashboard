@@ -1,0 +1,23 @@
+{
+  "latitude": 28.599998,
+  "longitude": 77.20001,
+  "generationtime_ms": 0.3883838653564453,
+  "utc_offset_seconds": 19800,
+  "timezone": "Asia/Kolkata",
+  "timezone_abbreviation": "GMT+5:30",
+  "elevation": 217.0,
+  "current_units": {
+    "time": "iso8601",
+    "interval": "seconds",
+    "pm2_5": "\u03bcg/m\u00b3",
+    "pm10": "\u03bcg/m\u00b3",
+    "us_aqi": "USAQI"
+  },
+  "current": {
+    "time": "2026-10-10T14:30",
+    "interval": 3600,
+    "pm2_5": 72.4,
+    "pm10": 304.5,
+    "us_aqi": 159
+  }
+}
