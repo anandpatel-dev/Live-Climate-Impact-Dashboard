@@ -6,7 +6,7 @@ The project uses Python for data collection and processing, SQLite for data stor
 
 🌍 Live Demo
 
-🚀 Open Live Climate Impact Dashboard
+🚀[🚀 Open Live Climate Impact Dashboard](https://live-climate-impact-dashboard-ruxmeigczzusoeyq2ck9qf.streamlit.app/)
 
 Explore live weather conditions, air quality metrics, historical climate data, and interactive visualizations across cities.
 
