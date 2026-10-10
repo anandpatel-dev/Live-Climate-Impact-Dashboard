@@ -4,6 +4,12 @@ A Python-based climate monitoring and visualization project that brings together
 
 The project uses Python for data collection and processing, SQLite for data storage, and Streamlit for interactive data visualization.
 
+🌍 Live Demo
+
+🚀 Open Live Climate Impact Dashboard
+
+Explore live weather conditions, air quality metrics, historical climate data, and interactive visualizations across cities.
+
 ## 📌 Project Overview
 
 The Live Climate Impact Dashboard aims to make climate-related data easier to explore through interactive charts, weather summaries, and air quality indicators.
